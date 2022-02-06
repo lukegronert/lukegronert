@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Luke Gronert</h1>
 <h3 align="center">A passionate Software Engineer from California, USA living in Taipei, Taiwan</h3>
 
