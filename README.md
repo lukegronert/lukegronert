@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [www.lukegronert.com](www.lukegronert.com)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **lukegronert@gmail.com**
 
 - ⚡ Fun fact **I have been playing volleyball for over 15 years**
