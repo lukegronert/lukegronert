@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Poker Results Website](https://github.com/lukegronert/poker-app)
 
-- 🌱 I’m currently learning **SASS and google APIs**
+- 🌱 I’m currently learning **Node.js and MongoDB**
 
 - 👨‍💻 All of my projects are available at [www.lukegronert.com](www.lukegronert.com)
 
